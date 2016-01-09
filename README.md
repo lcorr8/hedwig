@@ -1,3 +1,3 @@
 Hello, this is a sandbox.
 
-...and I am playing in it.
+...and I am playing in it :)
